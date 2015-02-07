@@ -1,7 +1,7 @@
 # ThingsatCU
 ==============================================================
 ##Functionality 
-- The app is intended as a e-billboard for club/event announcements at Columbia University. It provides a swiping mechanism in which announcements can be ignored or saved for future reference. 
+- This is an Android app intended as a e-billboard for club/event announcements at Columbia University. It provides a swiping mechanism in which announcements can be ignored or saved for future reference. 
 
 
 ##Contributors 
